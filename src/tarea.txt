@@ -1,0 +1,2 @@
+crear un componente de clase con un input y el input es capaz de cambiar el estado del componente
+destructruring
